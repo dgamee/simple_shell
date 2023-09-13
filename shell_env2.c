@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _envpath - A program that get envnv varable
+ * _envpath - A program that gets envnv varable
  * @str: an argument
  * Return: the path
  */
