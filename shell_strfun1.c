@@ -41,7 +41,7 @@ int cmpstr(const char *st1, const char *st2)
 }
 
 /**
- * catstr - A program that  concatenates two strings
+ * catstr - A program that concatenates two strings
  * @str: the string destination
  * @src: the source
  *
