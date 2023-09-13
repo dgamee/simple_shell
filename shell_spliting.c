@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * split_str- program the split string into two
+ * split_str- program tha splits string into two
  * @str: string to be tokenalized
  * @delim: slipting params
  * Return: returns the slipted string
