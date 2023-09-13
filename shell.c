@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * main - program that thats in args and  execute command
+  * main - program that's in args and  execute command
   * 
   *
   * Return: 0 on success
