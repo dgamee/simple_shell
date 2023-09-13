@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * evn_location - a program the describe to the path 
+ * evn_location - a program that describe to the path
  * @command_args: agument 
  *
  * Return: returns the path location
