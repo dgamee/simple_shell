@@ -2,7 +2,7 @@
 
 /**
   * main - program that's in args and  execute command
-  * 
+  *
   *
   * Return: 0 on success
   */
@@ -10,7 +10,7 @@
 int main(void)
 {
 	ssize_t len;
-    char linestr[100];
+	char linestr[100];
 
 	while (1)
 	{
@@ -36,7 +36,7 @@ int main(void)
 
 /**
   * free_str - program that free allocated space
-  * @argstr: argument
+  * @strargs: argument
   */
 
 void free_str(char **strargs)
@@ -49,7 +49,6 @@ void free_str(char **strargs)
 	}
 	free(strargs);
 }
- 
 /**
   * commandfork - program that duplicate process
   * @strargs: take in argument

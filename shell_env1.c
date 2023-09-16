@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * evn_location - a program that describe to the path
- * @command_args: agument 
+ * env_location - a program that describe to the path
+ * @command_args: agument
  *
  * Return: returns the path location
  */
 
 char *env_location(char *command_args)
 {
-	 
+
 	int len1, len2;
 	char *envpath, *copypath = NULL, *token, *filepath = NULL;
 	struct stat str;

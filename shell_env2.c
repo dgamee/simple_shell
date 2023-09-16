@@ -7,10 +7,10 @@
  */
 
 char *_envpath(const char *str)
-{	
+{
 	int lenght = lenstr(str);
 	char **envn = NULL;
-	
+
 
 	envn =  environ;
 	while (*envn != NULL)

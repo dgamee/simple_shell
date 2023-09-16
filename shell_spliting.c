@@ -9,7 +9,7 @@
 
 char **split_str(char *str, const char *delim)
 {
-	
+
 	int tokcount = 0, i;
 	char *argtokcpy = _strdup(str);
 	char **args = NULL;
