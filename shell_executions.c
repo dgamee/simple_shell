@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * shell_exec - a function the execute command
+ * shell_exec - A function that executes command
  * @argstr: takes in command
  * Return: void
  */
