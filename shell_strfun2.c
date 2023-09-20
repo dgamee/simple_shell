@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * strncmp_made - A program that takes three argument and compare
+ * strncmp_made - A program that takes three argument and compares
  * @st1: first args
  * @st2: second args
  * @i: third arg an int
@@ -29,7 +29,7 @@ int strncmp_made(const char *st1, const char *st2, size_t i)
 
 
 /**
- * _strdup - program that duplicatin string
+ * _strdup - A program that duplicates string
  * @str: sring to be duplicated
  * Return: duplicated string
  */
@@ -53,7 +53,7 @@ char *_strdup(const char *str)
 
 
 /**
- * cpystr - program that copies a string
+ * cpystr - A program that copies a string
  * @str: the the string destination
  * @src: the source
  *
