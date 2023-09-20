@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-  * command_handle - A program that handle command pass to shell
+  * command_handle - A program that handles commands passed to shell
   * @linestr: getline argument pass for execute
   */
 
@@ -51,7 +51,7 @@ void command_handle(char *linestr)
 
 
 /**
- * execute_env - program that execute the ennv variable
+ * execute_env - A program that executes the ennv variable
  * Return: nothing
  *
  */
